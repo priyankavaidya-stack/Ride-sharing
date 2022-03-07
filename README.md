@@ -1,10 +1,13 @@
 # Ride-sharing
 
-![screencapture-localhost-3000-2022-02-19-23_46_37](https://user-images.githubusercontent.com/60043222/154814538-018a1b06-0a30-434c-afcf-deb45890b25a.png)
+![screencapture-localhost-3000-2022-03-07-21_39_22](https://user-images.githubusercontent.com/60043222/157073157-fae8628c-ce18-4e25-8e20-b7af5bbc2838.png)
 
-![screencapture-localhost-3000-SearchCabs-2022-02-19-23_47_12](https://user-images.githubusercontent.com/60043222/154814622-e3d20559-3149-4525-80de-4259ad318ed1.png)
+![screencapture-localhost-3000-SearchCabs-2022-03-07-21_39_52](https://user-images.githubusercontent.com/60043222/157073234-9ddf7add-5d7e-41e8-9211-50bf0599f296.png)
 
-![screencapture-localhost-3000-2022-02-19-23_50_49](https://user-images.githubusercontent.com/60043222/154814651-1577b51c-6dec-49d7-934f-634c4aaaadd6.png)
+![screencapture-localhost-3000-create-ride-2022-03-07-21_42_19](https://user-images.githubusercontent.com/60043222/157073305-de195886-d2de-4521-9bed-8f32229806de.png)
 
-![screencapture-localhost-3000-2022-02-19-23_51_11](https://user-images.githubusercontent.com/60043222/154814656-ae672883-e09e-433b-9cf7-33ce616f80ca.png)
+![screencapture-localhost-3000-available-rides-2022-03-07-21_42_39](https://user-images.githubusercontent.com/60043222/157073362-93a95685-5250-4bdb-ba16-414d0c9a27a1.png)
+
+![screencapture-localhost-3000-requested-ride-2022-03-07-21_42_31](https://user-images.githubusercontent.com/60043222/157073387-ae557614-27cc-4f18-ba3d-600ae2212cad.png)
+
 
